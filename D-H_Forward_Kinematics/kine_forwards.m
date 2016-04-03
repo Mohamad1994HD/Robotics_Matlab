@@ -1,3 +1,7 @@
+% By Mohamad Alhaddad
+% This function will obtain forward kinemtics for a given Denevit Hartenberg (D-H) parameters matrix
+% Implementation using Links
+
 function pos = kine_forwards(Matrix)
     if nargin ~= 1
         error('Input Error, Please input as nx4 matrix')
