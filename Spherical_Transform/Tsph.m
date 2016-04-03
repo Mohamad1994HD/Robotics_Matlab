@@ -1,3 +1,6 @@
+% By Mohamad Alhadddad
+% This funciton will obtain the spherical transformation
+%
 function sphere = Tsph(z_angle, y_angle, r)
     if nargin < 3
         error('Input must be in form z_angle, y_angle, r');
