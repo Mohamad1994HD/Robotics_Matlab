@@ -2,8 +2,9 @@ The function duty is to find the unknown values in the 3x3 given matrix
 and return a fully valued matrix
 
 
-**Parameters**: 1) 3x3 matrix  
-                2)symbolics of unkown values in a vector form
+**Parameters**: 
+1) 3x3 matrix  
+2)symbolics of unkown values in a vector form
 
 **Usage:**
 ```matlab
