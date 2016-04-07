@@ -1,5 +1,6 @@
 The function duty is to find the unknown values in the 3x3 given matrix
 and return a fully valued matrix
+**Parameters**: 3x3 matrix, symbolics in a vector form
 
 **Usage:**
 ```matlab
