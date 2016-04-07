@@ -2,7 +2,7 @@ The function duty is to find the unknown values in the 3x3 given matrix
 and return a fully valued matrix
 
 
-**Parameters**: 3x3 matrix AND symbolics in a vector form
+**Parameters**: 1) 3x3 matrix  2)symbolics in a vector form
 
 **Usage:**
 ```matlab
