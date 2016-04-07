@@ -3,6 +3,7 @@ and return a fully valued matrix
 
 
 **Parameters**: 
+
 1) 3x3 matrix  
 2)symbolics of unkown values in a vector form
 
